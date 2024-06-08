@@ -15,6 +15,8 @@ import qa.base.baseC;
 import qa.utility.Utility;
 
 public class LoginSendDataWithExcelTest extends baseC{
+	//by master
+	WebDriver driver = new ChromeDriver();
 	public WebDriver driver;
 	HomePage homePage;
 	
