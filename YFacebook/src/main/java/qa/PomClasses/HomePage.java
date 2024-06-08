@@ -28,6 +28,8 @@ public class HomePage {
 		act = new Actions(driver);
 		js = (JavascriptExecutor)driver;
 		wait = new WebDriverWait(driver,10);
+		//by persion 2
+		ArrayList<String> list = new ArrayList<String>();
 	}
 	
 	public void sendEmail(String eml)
