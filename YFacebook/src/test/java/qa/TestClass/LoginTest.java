@@ -24,8 +24,10 @@ import qa.PomClasses.HomePage;
 import qa.base.baseC;
 
 public class LoginTest extends baseC{
+	//by master
 	//WebDriver driver = new ChromeDriver();
-	WebDriver driver=null;
+	WebDriver driver = new FireFoxDriver
+	WebDriver driver;
 	HomePage homePage;
 	
 	@BeforeTest
