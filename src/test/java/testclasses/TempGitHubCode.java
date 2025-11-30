@@ -6,6 +6,6 @@ public class TempGitHubCode {
 		
 		System.out.println("first comment");
 		System.out.println("new code from github to local from master");
-		
+		System.out.println("new code from github to local from chldbranch");
 	}
 }
